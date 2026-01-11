@@ -4,6 +4,6 @@
 <p>
 
 ## Tech Stack
-**Langauges**: Python, C, Java, HTML, CSS, SQL
-**Game Dev**: Unity, C#
-**Web**: MongoDB
+**Langauges**: Python, C, Java, HTML, CSS, SQL  
+**Game Dev**: Unity, C#  
+**Web**: MongoDB  
